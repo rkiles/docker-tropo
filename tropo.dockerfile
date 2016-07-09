@@ -1,4 +1,5 @@
 # This docker file will create a container using the latest official Ubuntu image
+# Created by rkiles on 7-8-2016
 
 FROM ubuntu:latest
 MAINTAINER Richard Kiles <rkiles@gdt.com>
