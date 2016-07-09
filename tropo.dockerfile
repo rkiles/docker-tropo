@@ -1,5 +1,6 @@
 # This docker file will create a container using the latest official Ubuntu image
 # Created by rkiles on 7-8-2016
+# Updated by rkiles on 7-8-2016 to include WORKDIR directive
 
 FROM ubuntu:latest
 MAINTAINER Richard Kiles <rkiles@gdt.com>
